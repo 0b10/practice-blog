@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.1.1",
     "@material-ui/icons": "^4.2.0",
-    "@storybook/cli": "^5.1.9",
+    "@storybook/cli": "^5.3.22",
     "@testing-library/jest-dom": "^4.0.0",
     "@testing-library/react": "^8.0.4",
     "enzyme": "^3.10.0",
